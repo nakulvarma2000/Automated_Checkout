@@ -1,0 +1,48 @@
+1. Title: Grocery Store Detection Image Dataset
+	Version 1 Generated Jul 5, 2022
+
+2. Sources:
+     (a) Creator: Shruti Goyal
+     (b) Donor: Alan Thomas
+     (c) Donor: Alwin John
+     (d) Donor: Deon S
+     (e) Donor: Purva
+     (f) Date: Jul 5, 2022
+
+3. Past Usage:
+   
+   1.Multivariate Statistics Project - Submitted by Kuttans Te Kudiyan
+	Pickit App - Smart Grocery Basket
+	Made by Kuttans Te Kudiyan
+	“A prototype, Pickit, that identifies grocery items and recommends items based on 
+	prior purchase history and providing item location.”
+
+4. Relevant Information:
+   --- PREPROCESSING	Resize: Stretch to 416x416
+
+   --- AUGMENTATIONS	Outputs per training example: 3
+				Rotation: Between -20° and +20°
+
+   --- DETAILS		Version Name: 2022-07-05 7:58pm
+				Version ID: 1
+				Generated: Jul 5, 2022
+				Annotation Group: Grocery-items  
+
+5. Number of Instances: 1316 images
+
+6. Number of Classes: 5 classes
+				-Milk
+				-Bread
+				-Egg
+				-Coconut
+				-Butter
+
+7. Train test split Information:
+   1. Training Set - 1.1k images
+   2. Test Set - 112 images
+   3. Validation Set - 62 images
+
+8. Dataset link: https://app.roboflow.com/project-heb0i/grocery-store-detection/1 
+		     (Please make a note of it that the dataset is not public and invite only)
+
+9. Class Distribution: 20% for each of 5 classes.

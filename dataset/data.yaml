@@ -1,0 +1,5 @@
+train: ./dataset/train/images
+val: ./dataset/valid/images
+
+nc: 5
+names: ['bread', 'butter', 'coconut', 'egg', 'milk']
