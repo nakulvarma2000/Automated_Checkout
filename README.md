@@ -49,7 +49,7 @@ object-oriented interface to the Tk GUI toolkit
 1. Used python code for web scrapping
 2. Used Robo Flow for image annotation, pre-processing and augmentation.
 3. Used YOLOv5 as a model.
-   You can view the model and model summary from `model.ipynb` file
+   You can view the model and model summary from `Model.ipynb` file
 4. Trained YOLOv5 with custom dataset. Transfer learning
 5. Used Tkinter for GUI. 
 6. Video get detected after we upload a video file.
