@@ -73,7 +73,21 @@ CPU : Xeon Processors @2.3Ghz
 
 GPU : Tesla T4, 15110MiB
 
+## Working Example:
+I have made a video of objects to be detected
+
+![test](https://user-images.githubusercontent.com/81613474/183238893-2c006f17-121b-4f31-95c8-ab40cd430a02.gif)
+
+This video is uploaded to the App and the following result is obtained.
+
+![outputimg](https://user-images.githubusercontent.com/81613474/183238959-d2d6a801-4f6f-489a-ab61-979ffc33d6fc.png)
+
+
 ## Further Modification’s:
 1. Improve the result accuracy by increasing the size of dataset.
 2. Run the model on high end hardware to reduce prediction latency.
+
+
+
+
 
