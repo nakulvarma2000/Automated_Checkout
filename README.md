@@ -45,4 +45,20 @@ object-oriented interface to the Tk GUI toolkit
 
 ![Screenshot 2022-08-06 115632](https://user-images.githubusercontent.com/81613474/183237411-9bc87941-732e-4970-8c1d-8506d26ef787.png)
 
+## Methods :
+1. Used python code for web scrapping
+2. Used Robo Flow for image annotation, pre-processing and augmentation.
+3. Used YOLOv5 as a model.
+4. Trained YOLOv5 with custom dataset. Transfer learning
+5. Used Tkinter for GUI. 
+6. Video get detected after we upload a video file.
 
+## Installation :
+### Steps to run the application
+To run this code in your local system you have to download this repository using-
+
+git clone https://github.com/pranabsarkar/Conll_task.git
+
+Now open the downloaded directory and install the required python packages using-
+
+pip install -r requirements.txt
