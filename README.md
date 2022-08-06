@@ -1,6 +1,6 @@
 # Automated Checkout
 ## Problem Statement : 
-To build a an automated checkout system that generates the bill with video object detection.
+To build an automated checkout system that generates the bill with video object detection.
 ## About Dataset :
 The image dataset collected comprises of 50-50 images each of the products in various categories. These products include: -
 1) Bread
