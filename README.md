@@ -49,6 +49,7 @@ object-oriented interface to the Tk GUI toolkit
 1. Used python code for web scrapping
 2. Used Robo Flow for image annotation, pre-processing and augmentation.
 3. Used YOLOv5 as a model.
+   You can view the model and model summary from `model.ipynb` file
 4. Trained YOLOv5 with custom dataset. Transfer learning
 5. Used Tkinter for GUI. 
 6. Video get detected after we upload a video file.
@@ -57,8 +58,22 @@ object-oriented interface to the Tk GUI toolkit
 ### Steps to run the application
 To run this code in your local system you have to download this repository using-
 
-git clone https://github.com/pranabsarkar/Conll_task.git
+git clone https://github.com/nakulvarma2000/Automated_Checkout.git
 
 Now open the downloaded directory and install the required python packages using-
 
 pip install -r requirements.txt
+
+Now open `AutomatedCheckoutApp.ipynb` and run all the cell. The last cell runs the GUI
+
+## Training and Evaluation
+I have used google colab for training this YOLOv5 model.
+
+CPU : Xeon Processors @2.3Ghz
+
+GPU : Tesla T4, 15110MiB
+
+## Further Modification’s:
+1. Improve the result accuracy by increasing the size of dataset.
+2. Run the model on high end hardware to reduce prediction latency.
+
