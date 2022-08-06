@@ -14,6 +14,7 @@ The image dataset collected comprises of 50-50 images each of the products in va
 
 Image data collected through web scraping
 
+## Toolkit :
 ### Robo Flow
 Robo flow is a Computer Vision developer framework for better data collection to 
 pre-processing, and model training techniques. Robo flow also offers the option to 
@@ -30,3 +31,18 @@ labels. Data.yml files extracted all the labels which we gave and then allotted
 respective labels on respective items. 
 After processing the dataset from Robo flow we got 1 API key and then used that to 
 import data in yolo for further detection.
+
+### YOLOv5
+YOLO is one of the most famous object detection algorithms due to its speed and accuracy.
+I used YOLO V5 which is model trained on COCO dataset and which uses a 
+transfer learning technique. I tuned this model on our dataset to get better 
+accuracy for object detection.
+
+### User Interface - Tkinter
+Tkinter is the standard GUI library for Python. Python when combined with Tkinter 
+provides a fast and easy way to create GUI applications. Tkinter provides a powerful 
+object-oriented interface to the Tk GUI toolkit
+
+![Screenshot 2022-08-06 115632](https://user-images.githubusercontent.com/81613474/183237411-9bc87941-732e-4970-8c1d-8506d26ef787.png)
+
+
