@@ -88,6 +88,7 @@ This video is uploaded to the App and the following result is obtained.
 2. Run the model on high end hardware to reduce prediction latency.
 
 
-
+## Author
+### Name: Nakul Ramesh Varma
 
 
